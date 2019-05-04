@@ -1,0 +1,11 @@
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.deps.json
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.runtimeconfig.json
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.runtimeconfig.dev.json
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.dll
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/bin/Debug/netcoreapp2.0/GradeBook.pdb
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.csprojAssemblyReference.cache
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.AssemblyInfoInputs.cache
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.AssemblyInfo.cs
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.dll
+/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/Debug/netcoreapp2.0/GradeBook.pdb
