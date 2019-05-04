@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBookTests/GradeBookTests.csproj",
+      "projectUniqueName": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBookTests/GradeBookTests.csproj",
       "projectName": "GradeBookTests",
-      "projectPath": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBookTests/GradeBookTests.csproj",
+      "projectPath": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBookTests/GradeBookTests.csproj",
       "packagesPath": "/Users/troka/.nuget/packages/",
-      "outputPath": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBookTests/obj/",
+      "outputPath": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBookTests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5823,8 +5823,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/GradeBook.csproj": {
-              "projectPath": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/GradeBook.csproj"
+            "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBook/GradeBook.csproj": {
+              "projectPath": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBook/GradeBook.csproj"
             }
           }
         }

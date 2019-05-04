@@ -1,4 +1,5 @@
 FROM microsoft/dotnet:2.1-sdk-alpine
+
 ENV APP_DIR /src/app
 
 RUN mkdir -p ${APP_DIR}

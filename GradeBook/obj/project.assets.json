@@ -3620,11 +3620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBook/GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/GradeBook.csproj",
+      "projectPath": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBook/GradeBook.csproj",
       "packagesPath": "/Users/troka/.nuget/packages/",
-      "outputPath": "/Users/troka/Documents/PlurarlSight/CSharp-GradeBookApplication-master/GradeBook/obj/",
+      "outputPath": "/Users/troka/Documents/PlurarlSight/GitHub/CSharp-GradeBookApplication/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
