@@ -4,12 +4,21 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GradeBook" expanded="True" selected="True">
+          <Node name="GradeBook" expanded="True">
             <Node name="GradeBook" expanded="True">
               <Node name="Enums" expanded="True" />
+              <Node name="GradeBooks" expanded="True">
+                <Node name="RankedGradeBook.cs" selected="True" />
+              </Node>
+              <Node name="UserInterfaces" expanded="True" />
             </Node>
             <Node name="GradeBookTests" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GradeBook" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
