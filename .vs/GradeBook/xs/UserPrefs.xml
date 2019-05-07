@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{8356F33A-1E61-4367-B73B-8D000A05ACB3}|Default">
   <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBook/GradeBooks/BaseGradeBook.cs">
+    <Files>
+      <File FileName="GradeBook/GradeBooks/RankedGradeBook.cs" Line="13" Column="1" />
+      <File FileName="GradeBook/GradeBooks/BaseGradeBook.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GradeBook" expanded="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="GradeBook" expanded="True">
-              <Node name="Enums" expanded="True">
-                <Node name="GradeBookType.cs" selected="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="GradeBooks" expanded="True">
+                <Node name="BaseGradeBook.cs" selected="True" />
               </Node>
-              <Node name="GradeBooks" expanded="True" />
             </Node>
             <Node name="GradeBookTests" expanded="True" />
           </Node>
